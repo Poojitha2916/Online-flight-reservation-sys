@@ -25,6 +25,8 @@ flight-reservation/
 
 ❌ Displays errors for invalid flight IDs or full flights
 
+---
+
 🛠️ Technologies Used
 
 - Java SE (JDK 8 or 17)
@@ -34,6 +36,8 @@ flight-reservation/
 - Core Java (OOP, Collections, Exception Handling)
 
 - No GUI or database — perfect for practicing logic and data structures
+
+---
 
 🚀 How to Run
 
